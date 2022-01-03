@@ -1,0 +1,23 @@
+animal
+----------
++ name: str
++ type: str
+-----------
++ move(): str
+
+
+book
+----------
+^ name: str
++ author: str
++ year: date
+
+
+
+vehicle
+----------
++ make: str
++ model: str
+^ year: date
+------------
+^ move(): str
